@@ -14,7 +14,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~A4QiAagD#dBQli77kQL9Qsmp6_uUfx49gEdtC58oxgzhZvJWxRzg"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
@@ -24,7 +24,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "9230926680000,❣️PRINCE THE DEVELOPER"
+      "value": "94741131420,Paniya"
     },
     "MODE": {
       "description": "choose bot mode public or private",
